@@ -1,0 +1,12 @@
+syntax on
+colorscheme darkblue
+set incsearch                                                                                                                                                                                                                     
+set number
+set showmatch
+set ruler
+set cursorline
+set tabstop=4
+set noautoindent
+setlocal formatoptions-=r
+setlocal formatoptions-=o
+set noswapfile

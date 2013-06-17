@@ -1,0 +1,7 @@
+escape ^z^z                                                                                                                                                                                                                       
+hardstatus alwayslastline "[%Y-%m-%d(%D) %c:%s] %`%-w%{=b bw}%n %t%{-}%+w $STY"
+term xterm-256color
+attrcolor b "b" 
+
+scrollback 4000
+termcapinfo xterm* ti@:te@
