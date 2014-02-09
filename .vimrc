@@ -5,7 +5,8 @@ set number
 set showmatch
 set ruler
 set cursorline
-set tabstop=4
+set expandtab
+set tabstop=2
 set noautoindent
 setlocal formatoptions-=r
 setlocal formatoptions-=o
